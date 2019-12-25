@@ -11,5 +11,5 @@
 | Maybe learn Rust | &#9744; | &#9744; |
 
 ### Changelog
-12/25/2019
+12/25/2019 \
   6:53PM: Added Javascript and C#
