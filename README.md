@@ -2,8 +2,8 @@
 
 | Task | Done? | Working on it? |
 | :--- | :---: | :---: |
-| Learn COBOL | <ul><li>- [ ]</li></ul> | <ul><li>- [ ]</li></ul> |
-| Learn Lua | <ul><li>- [ ]</li></ul> | <ul><li>- [ ]</li></ul> |
-| Learn something low level | <ul><li>- [ ]</li></ul> | <ul><li>- [ ]</li></ul> |
-| Maybe learn Go | <ul><li>- [ ]</li></ul> | <ul><li>- [ ]</li></ul> |
-| Maybe learn Rust | <ul><li>- [ ]</li></ul> | <ul><li>- [ ]</li></ul> |
+| Learn COBOL | &#9744; | &#9744; |
+| Learn Lua | &#9744; | &#9744; |
+| Learn something low level | &#9744; | &#9744; |
+| Maybe learn Go | &#9744; | &#9744; |
+| Maybe learn Rust | &#9744; | &#9744; |
