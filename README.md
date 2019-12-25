@@ -12,4 +12,4 @@
 
 ### Changelog
 12/25/2019 \
-‎‎‎6:53PM: Added Javascript and C#
+ - 6:53PM: Added Javascript and C#
