@@ -13,3 +13,6 @@
 ### Changelog
 12/25/2019
  - 6:53PM: Added Javascript and C#
+
+01/18/2020
+ - 6:37PM: Set 'Learn C#' and 'Learn something low level' to 'Working on it'
