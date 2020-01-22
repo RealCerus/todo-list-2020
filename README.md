@@ -5,7 +5,7 @@
 | Learn COBOL | &#9744; | &#9744; |
 | Learn Lua | &#9744; | &#9744; |
 | Learn Javascript | &#9744; | &#9744; |
-| Learn C# | &#9744; | &#9744; |
+| Learn C# | &#9744; | &#9745; |
 | Learn Scala | &#9744; | &#9744; |
 | Learn something low level | &#9744; | &#9745; (C++) |
 | Maybe learn Go | &#9744; | &#9744; |
