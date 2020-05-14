@@ -2,13 +2,11 @@
 
 | Task | Done? | Working on it? |
 | :--- | :---: | :---: |
-| Learn COBOL | &#9744; | &#9744; |
 | Learn Lua | &#9744; | &#9744; |
 | Learn Javascript | &#9744; | &#9744; |
 | Learn C# | &#9744; | &#9745; |
 | Learn Scala | &#9744; | &#9744; |
 | Learn something low level | &#9744; | &#9745; (C++) |
-| Maybe learn Go | &#9744; | &#9744; |
 | Maybe learn Rust | &#9744; | &#9744; |
 
 ### Changelog
@@ -20,3 +18,6 @@
 
 01/22/2020
  - 2:49PM: Added Scala
+
+05/14/2020
+ - 9:51PM: Removed Go, removed COBOL
